@@ -1,0 +1,76 @@
+Task 1 Output - To-Do List Application :
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 1
+Enter task description: buy the fruits
+Task added successfully!
+
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 2
+
+Your Tasks:
+1. buy the fruits [pending]
+
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 3
+
+Your Tasks:
+1. buy the fruits [pending]
+Enter task number to mark complete: 1
+Task marked as complete!
+
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 2
+
+Your Tasks:
+1. buy the fruits [done]
+
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 4
+
+Your Tasks:
+1. buy the fruits [done]
+Enter task number to delete: 1
+Deleted: buy the fruits
+
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 2
+No tasks available.
+
+--- TO-DO MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 5
+Exiting...
