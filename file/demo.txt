@@ -1,0 +1,3 @@
+Python is powerful. 
+Python is simple. 
+Learn Python daily.

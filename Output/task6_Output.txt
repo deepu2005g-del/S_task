@@ -1,0 +1,16 @@
+Task 6 output: Word Count Tool
+
+Enter file name: D:\intern_task\S_task\file\demo.txt
+
+File Analysis:
+Lines: 3
+Words: 9
+Characters: 59
+
+Top 10 Words:
+python: 3
+is: 2
+powerful: 1
+simple: 1
+learn: 1
+daily: 1
