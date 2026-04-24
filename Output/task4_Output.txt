@@ -1,0 +1,16 @@
+Task 4 output: Basic Web Scraper 
+
+Enter website URL: https://news.ycombinator.com
+
+Headlines:
+
+1. S. Korea police arrest man over AI image of runaway wolf that misled authorities(bbc.com)
+2. DeepSeek v4(deepseek.com)
+3. Spinel: Ruby AOT Native Compiler(github.com/matz)
+4. Composition Shouldn't be this Hard(cambra.dev)
+5. Why I Write (1946)(orwellfoundation.com)
+6. Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture(ynarwal.github.io)
+7. An update on recent Claude Code quality reports(anthropic.com)
+8. GPT-5.5(openai.com)
+9. US special forces soldier arrested after allegedly winning $400k on Maduro raid(cnn.com)
+10. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign(socket.dev)
