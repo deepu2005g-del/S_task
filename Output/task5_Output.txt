@@ -1,0 +1,7 @@
+Task 5 output: Currency Converter 
+
+Enter base currency : INR
+Enter target currency : USD
+Enter amount: 500
+
+ 500.0 INR = 5.30 USD
