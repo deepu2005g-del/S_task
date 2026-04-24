@@ -1,0 +1,13 @@
+Task 2 Output - Guess the Number Game :
+
+Guess the number between 1 and 100!
+Enter your guess: 50
+The value is lower than the expected one!
+Enter your guess: 80
+The value is higher than the expected one!
+Enter your guess: 60
+The value is higher than the expected one!
+Enter your guess: 58
+The value is lower than the expected one!
+Enter your guess: 59
+Correct! You guessed in 5 attempts.
